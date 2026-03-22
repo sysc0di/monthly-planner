@@ -468,6 +468,7 @@ body {
   display: flex;
   align-items: center;
   gap: 1rem;
+  margin-block:12px;
   transition: all 0.2s ease;
 }
 
